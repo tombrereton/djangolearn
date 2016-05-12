@@ -1,4 +1,6 @@
-# djangolearn
+#Djangolearn 
+
+![djangoimg](https://jerel.co/assets/blog/django.png)
 
 This is a web app I'm creating through the [*Test Driven Development*](http://chimera.labs.oreilly.com/books/1234000000754) tutorial.
 
